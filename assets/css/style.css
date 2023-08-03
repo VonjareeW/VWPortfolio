@@ -96,7 +96,7 @@ main {
 
 .hero-banner {
   background: rgb(50, 99, 177);
-  background-image: url("../images/186.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
+  background-image: url("../images/banner.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
   background-blend-mode: soft-light;
@@ -228,7 +228,7 @@ main {
 }
 
 .project-1 {
-  background-image: url("../images/02-run-buddy.jpg");
+  background-image: url("../images/refactor\ placeholder.jpg");
 }
 
 .project-2 {
