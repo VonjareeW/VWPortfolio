@@ -5,7 +5,7 @@
 /* brand color palette */
 :root {
   --primary: rgba(13, 14, 15, 0.875);
-  --secondary: rgba(148, 167, 168, 0.924);
+  --secondary: rgba(128, 144, 167, 0.924);
   --tertiary: rgb(42, 46, 60);
   --dark: rgba(28, 29, 33, 1);
   --light: rgba(238, 238, 247, 1);
@@ -95,7 +95,7 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
+  background: rgb(50, 99, 177);
   background-image: url("../images/186.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
