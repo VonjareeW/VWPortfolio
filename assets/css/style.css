@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-/* brand color palette */
+
 :root {
   --primary: rgba(13, 14, 15, 0.875);
   --secondary: rgba(128, 144, 167, 0.924);
@@ -227,7 +227,6 @@ main {
   color: var(--secondary);
 }
 
-/* portfolio project images */
 .project-1 {
   background-image: url("../images/02-run-buddy.jpg");
 }
@@ -241,8 +240,6 @@ main {
 }
 
 
-
-/* end portfolio project images */
 
 @media screen and (max-width: 980px) {
   header {
