@@ -25,3 +25,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Deployed Website 
 https://vonjareew.github.io/VWPortfolio/
+
+
+## Resources
+
+In order to do this challenge I used the index.html code from the following directory "UNCC-VIRT-FSF-PT-07-2023-U-LOLC/02AdvancedCSS/02Challenge/Main/index.html" I added my own style and modified properties and settings . 
