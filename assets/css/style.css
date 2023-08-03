@@ -93,12 +93,7 @@ main {
   margin-top: 20px;
   margin-bottom: 45px;
 }
-.my picture {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-}
+
 .hero-banner {
   background: rgb(50, 99, 177);
   background-image: url("../images/186.jpg"), linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
