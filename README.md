@@ -34,3 +34,4 @@ https://vonjareew.github.io/VWPortfolio/
 ## Resources
 
 To complete this challenge I viewed the index.html code, used 2 images;02-portfolio-1.jpg,02-portfolio-2.jpg from the following directory "UNCC-VIRT-FSF-PT-07-2023-U-LOLC/02AdvancedCSS/02Challenge/Main/index.html",  After viewing I made a mockup on paper of how I wanted my styling and made modifications from my notes and tips from in-class sessions.
+I used my project from my first module to link as a deployed application. The source code cloned from the repository from module 1 challenge https://github.com/coding-boot-camp/urban-octo-telegram https://vonjareew.github.io/Challenge.1/
