@@ -17,11 +17,14 @@ WHEN I am presented with the developer's first application
 THEN that application's image should be larger in size than the others
 WHEN I click on the images of the applications
 THEN I am taken to that deployed application
+
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Website Screenshot
-![Alt text]
+<img width="1440" alt="portscreenshot" src="https://github.com/VonjareeW/VWPortfolio/assets/52430595/c1f1706b-172f-4a4d-b38d-db5f75604253">
+
+
 
 ## Deployed Website 
 https://vonjareew.github.io/VWPortfolio/
