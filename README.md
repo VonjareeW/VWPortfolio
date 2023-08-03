@@ -22,7 +22,8 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Website Screenshot
-<img width="1440" alt="portscreenshot" src="https://github.com/VonjareeW/VWPortfolio/assets/52430595/c1f1706b-172f-4a4d-b38d-db5f75604253">
+<img width="1438" alt="portscreenshot" src="https://github.com/VonjareeW/VWPortfolio/assets/52430595/2ca08d51-8729-445e-829a-bf04dfbd4f2f">
+
 
 
 
@@ -32,4 +33,4 @@ https://vonjareew.github.io/VWPortfolio/
 
 ## Resources
 
-In order to do this challenge I used the index.html code from the following directory "UNCC-VIRT-FSF-PT-07-2023-U-LOLC/02AdvancedCSS/02Challenge/Main/index.html" I added my own style and modified properties and settings . 
+To complete this challenge I viewed the index.html code, used 2 images;02-portfolio-1.jpg,02-portfolio-2.jpg from the following directory "UNCC-VIRT-FSF-PT-07-2023-U-LOLC/02AdvancedCSS/02Challenge/Main/index.html",  After viewing I made a mockup on paper of how I wanted my styling and made modifications from my notes and tips from in-class sessions.
